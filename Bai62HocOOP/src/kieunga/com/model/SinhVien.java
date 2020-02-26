@@ -6,6 +6,7 @@ public class SinhVien {
 	
 	public String getHoTen() {
 		return this.hoTen;
+		
 	}
 
 	public void setHoTen(String hoTen) {
