@@ -5,8 +5,7 @@ public class SinhVien {
 	private double diem;
 	
 	public String getHoTen() {
-		return this.hoTen;
-		
+		return this.hoTen;		
 	}
 
 	public void setHoTen(String hoTen) {
